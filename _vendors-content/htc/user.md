@@ -1,8 +1,29 @@
----
+Kimmel---
 manufacturer:
     - htc
 
----
+-know
+
+
+
+
+
+
+
+
+
+yeye kyi mee
+apple
+oog
+yeye
+dvb
+oqw
+nsbs
+jsns
+jsns
+ns
+zjxbnd
+--
 
 If there are apps that you don’t want battery optimization enabled, you can turn the feature off in those apps.
 
